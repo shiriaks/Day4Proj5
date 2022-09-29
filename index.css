@@ -1,0 +1,36 @@
+body{
+    margin: 20%;
+}
+#html{
+    font-size: 65px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: blueviolet;
+
+}
+
+.details{
+    border-color: gray;
+    border-width: 2px;
+    color: coral;
+    font-size: 20px;
+    border-style: solid;
+    padding: 5px;
+}
+#user{
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+}
+#pass{
+    margin-top: -20px;
+}
+#line2{
+    font-size: 31px;
+    color: aqua;
+
+}
+#line3{
+    font-size: 25px;
+    color: darkgoldenrod;
+}
